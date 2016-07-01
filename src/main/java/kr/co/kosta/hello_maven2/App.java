@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello Mr. SkdocX !!!" );
         System.out.println( "Hello Jenkins Webhook !!!" );
+        System.out.println( "GitHub Edit Commit !!!" );
     }
 }
